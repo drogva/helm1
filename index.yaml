@@ -3,12 +3,12 @@ entries:
   tks-contract:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-03-16T01:42:04.8679506+09:00"
+    created: "2024-03-16T23:16:41.7256277+09:00"
     description: A Helm chart for Kubernetes
-    digest: 8d11ba7c8206f061cd97cfb720c8a750f68f000e892311ebd9524fd7b99cb5e9
+    digest: ef3ceb356a5119b96b72be37ebdd8d73a2d4ff26613c44804ed9c54767895153
     name: tks-contract
     type: application
     urls:
     - tks-contract-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-16T01:42:04.8662678+09:00"
+generated: "2024-03-16T23:16:41.7219487+09:00"
